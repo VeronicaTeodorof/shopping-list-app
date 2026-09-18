@@ -59,3 +59,17 @@ Built by Veronica and Vlad - a learning project where we're both practicing full
 *Note: track via a running session log rather than automated analytics.*
 
 #### Product goals
+
+## Product Goals
+
+1. **Reduce time and friction in building a shopping list**
+   Make adding items fast enough that it doesn't feel like a chore.
+
+2. **Make in-store shopping more efficient**
+   Organize the list by aisle/category so users spend less time going back and forth through a shop, not just less time building the list beforehand.
+
+3. **Automate the gap between "what I'm cooking" and "what I need to buy"**
+   Turn a recipe directly into a usable shopping list.
+
+4. **Support recurring/habitual shopping, not just one-off lists**
+   Let users reuse past patterns (templates) instead of rebuilding the same list from scratch every week — turning the app from a single-use tool into something people keep coming back to.
