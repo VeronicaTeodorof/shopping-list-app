@@ -2,6 +2,8 @@
 
 Built by Veronica and Vlad - a learning project where we're both practicing full-stack development with AI integration.
 
+Target release: **Dec 18, 2026**
+
 ## Table of Contents
 
 - [Strategy](#strategy)
