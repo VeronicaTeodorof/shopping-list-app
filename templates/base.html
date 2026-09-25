@@ -17,8 +17,8 @@
     <header>
         <nav>
             <a href="">Home</a>
-            <a href="">Sign in</a>
-            <a href="">Sign up</a>
+            <a href="{% url 'account_login' %}">Sign in</a>
+            <a href="{% url 'account_signup' %}">Sign up</a>
         </nav>
     </header>
     {% block extra_header %}{% endblock %}
