@@ -1,1 +1,1 @@
-web: gunicorn shopping_list_app.wsgi
+web: gunicorn mylist.wsgi
